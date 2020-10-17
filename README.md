@@ -11,7 +11,7 @@ This is a web site recreated from the home page [DuckDuckGo](https://duckduckgo.
 - [Screenshots](#Screenshots)
 - [Status](#status)
 - [Contributions](#contributions)
-- [Launch](https://rago89.github.io/DuckDuckGoGroup6/)
+- [Launch](https://preeti-t.github.io/DuckDuckGoGroup6/)
 
 ## General info
 
