@@ -20,7 +20,11 @@ body {
    background-color: #f7f7f7;
  }
 
- .duckmain {
+ .navbar{
+    display: grid;
+    grid-template-columns: 1fr 150px 50px 50px;
+    grid-template-areas: 
+    ". privacy-menu social-menu side-menu";
     float: right;
     color: #aaa;
     }
